@@ -109,8 +109,6 @@
   <img src="https://raw.githubusercontent.com/Pavani-D25/Pavani-D25/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-> ⚙️ This animated snake needs a one-time setup — see `SETUP-INSTRUCTIONS.md` in this folder for the 2-minute steps.
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070F3,50:7928CA,100:FF0080&height=100&section=footer" width="100%"/>
